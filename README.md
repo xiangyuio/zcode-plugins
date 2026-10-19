@@ -6,7 +6,7 @@ ZCode 插件集合。本仓库根目录同时是一个本地 ZCode 插件市场�
 
 | 插件 | 说明 |
 | --- | --- |
-| [pele-mermaid](./plugins/pele-mermaid) | 对话中展示 Mermaid 图时，用 [Pele](https://pele.run/) 渲染为主题化内联 SVG（亮/暗自适应），替代裸 `mermaid` 代码块 |
+| [pele-mermaid](./plugins/pele-mermaid) | 对话中展示 Mermaid 图时，用 [Pele](https://pele.run/) 渲染为主题化内联 SVG（亮/暗自适应），替代裸 `mermaid` 代码块；片段自带"复制 Mermaid 代码"按钮和缩放控件 |
 
 ## 添加本市场
 

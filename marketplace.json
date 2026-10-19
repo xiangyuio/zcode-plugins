@@ -4,14 +4,14 @@
     {
       "name": "pele-mermaid",
       "source": "./plugins/pele-mermaid",
-      "version": "0.1.7",
-      "description": "Render Mermaid diagrams in conversations as themed inline SVG using Pele (pele.run)",
+      "version": "0.2.3",
+      "description": "Render Mermaid diagrams in conversations as themed inline SVG using Pele (pele.run), with copy-code and zoom controls",
       "displayName": "Pele Mermaid",
       "displayName_i18n": {
         "zh-CN": "Pele Mermaid 渲染"
       },
       "description_i18n": {
-        "zh-CN": "对话中展示 Mermaid 图时改用 Pele (pele.run) 渲染为主题化内联 SVG，支持亮暗自适应，替代裸 mermaid 代码块。"
+        "zh-CN": "对话中展示 Mermaid 图时改用 Pele (pele.run) 渲染为主题化内联 SVG，支持亮暗自适应，替代裸 mermaid 代码块；片段自带“复制 Mermaid 代码”按钮和缩放控件。"
       }
     }
   ]

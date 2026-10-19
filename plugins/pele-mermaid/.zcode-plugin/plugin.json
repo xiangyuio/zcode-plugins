@@ -1,7 +1,7 @@
 {
   "name": "pele-mermaid",
-  "version": "0.1.7",
-  "description": "Render Mermaid diagrams in conversations as themed inline SVG using Pele (pele.run)",
+  "version": "0.2.3",
+  "description": "Render Mermaid diagrams in conversations as themed inline SVG using Pele (pele.run), with copy-code and zoom controls",
   "author": { "name": "xiangyuio" },
   "skills": "./skills"
 }
