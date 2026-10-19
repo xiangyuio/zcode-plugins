@@ -1,0 +1,16 @@
+{
+  "name": "pele-mermaid-src",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Build workspace for the pele-mermaid plugin; output goes to plugins/pele-mermaid.",
+  "scripts": {
+    "build": "node build.mjs"
+  },
+  "dependencies": {
+    "pele": "^1.6.0"
+  },
+  "devDependencies": {
+    "esbuild": "^0.25.0"
+  }
+}

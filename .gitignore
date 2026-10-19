@@ -1,0 +1,8 @@
+# Build-time dependencies only; pele is bundled into scripts/render-pele.mjs
+# at dev time, so a fresh clone works without node_modules.
+**/node_modules/
+
+# OS cruft
+.DS_Store
+Thumbs.db
+desktop.ini
